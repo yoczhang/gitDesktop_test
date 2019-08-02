@@ -24,5 +24,3 @@ $$
 $$
 
 
-
-1. Add line1 in cha.md.
