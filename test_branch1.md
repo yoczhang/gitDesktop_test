@@ -1,1 +1,1 @@
-This is a test file in master branch.
+This is a test file in branch1.
