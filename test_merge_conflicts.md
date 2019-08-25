@@ -2,4 +2,5 @@ This is a test file to test merge conflicts.
 
 ---
 
-In test merge conflicts branch. 
+In master branch. Still in master branch.
+
