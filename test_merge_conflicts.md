@@ -1,1 +1,2 @@
-In test_merge_conflicts file
+In master branch.
+
